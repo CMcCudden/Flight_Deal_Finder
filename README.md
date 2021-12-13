@@ -6,14 +6,13 @@ both a text from a Twilio phone number (containing the destination, price and da
 latter as well as a Google flight link to view the flight in more detail.
 
 The Google Sheet the program is using to find flights for:
-![img.png](img.png)
+![alt text](https://raw.githubusercontent.com/SauerVonKraut/Flight_Deal_Finder/main/img.png)
 
 Examples of the email and texts you might receive: 
 
-![img_2.png](img_2.png)
+![img_7.png](img_7.png)
 
-![img_1.png](img_1.png)
-
+![img_8.png](img_8.png)
 
 To run it yourself with your own custom data, you would need to use the Sheety API, Tequila API, as well as a 
 Twilio account. All are free or have the option for a free/ trial account.
