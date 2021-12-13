@@ -9,8 +9,11 @@ The Google Sheet the program is using to find flights for:
 ![img.png](img.png)
 
 Examples of the email and texts you might receive: 
-![](../../Desktop/Screen Shot 2021-12-13 at 12.43.31 PM.png)
-![](../../Desktop/Screen Shot 2021-12-13 at 12.45.53 PM.png)
+
+![img_2.png](img_2.png)
+
+![img_1.png](img_1.png)
+
 
 To run it yourself with your own custom data, you would need to use the Sheety API, Tequila API, as well as a 
 Twilio account. All are free or have the option for a free/ trial account.
